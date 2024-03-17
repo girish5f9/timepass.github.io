@@ -1,8 +1,8 @@
 <span id="a">welcome to my world</span>:<span id="b">~</span><span id="c">$</span> <br/><br/>
-Hi, I'm [̲̅g][̲̅i][̲̅r][̲̅i][̲̅s][̲̅h].<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am Computer Science student. I'm currently graduated Sasi Institute Of Tech&Engg. </p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+Hi, I'm [̲̅g][̲̅i][̲̅r][̲̅i][̲̅s][̲̅h].<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently pursuing a Master's degree in Computer Science at Texas A&M University-Corpus Christi (TAMUCC). </p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 </p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
 My inbox is always open. Whether you have a question or just want to say hello, I'll try my best to get back to you! Feel free to get in touch:
-<p><a href="http://www.girish.tech/">GK</a>,<a href="https://github.com/girish5f9">GITHUB</a>,<a href="https://github.com/girish5f9">LINKEDIN</a>,<a href="https://github.com/girish5f9">INSTAGRAM</a>.</p>
+<p><a href="https://girish5f9.github.io/girishkumar//">GK</a>,<a href="https://github.com/girish5f9">GITHUB</a>,<a href="https://www.linkedin.com/in/girishkumarpatchikoru/">LINKEDIN</a>,<a href="https://github.com/girish5f9">INSTAGRAM</a>.</p>
 <!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
 
 
